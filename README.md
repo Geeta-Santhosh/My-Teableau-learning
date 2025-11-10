@@ -109,7 +109,7 @@ Finance KPI Dashboard
 
 
 
-----Steps to Create a Hierarchy in Tableau----
+**----Steps to Create a Hierarchy in Tableau----**
 
 A hierarchy is useful when you have fields that represent different levels of detail, for example:
 Geography: Country → State → City
@@ -142,7 +142,7 @@ Drag other related fields (e.g., State, City) into the hierarchy.
 
 <img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/e5cafec8-0500-4280-bcbe-ebb59196a08f" />
 
-----Steps to Create a Group in Tableau----
+**----Steps to Create a Group in Tableau----**
 
 Method 1: Create a Group from the Data Pane
 
@@ -183,4 +183,24 @@ You can edit or rename the group later.
 
 
 <img width="1366" height="731" alt="image" src="https://github.com/user-attachments/assets/4bd468e5-5966-42ad-99d3-09385d9f9ead" />
+
+
+**What is a Parameter in Tableau?**
+
+A Parameter is a dynamic input that allows users to replace a constant value in a calculation, filter, or reference line.
+Example: You can use a parameter to let users select a number, a date, or a category that changes the visualization dynamically.
+
+different ways to create Parameter
+
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/8abd35b4-283c-4ae7-97b7-9c71969c50b1" />
+
+<img width="1366" height="731" alt="image" src="https://github.com/user-attachments/assets/856eecfa-5ac0-4712-8073-c1f021c6bdca" />
+
+<img width="1366" height="732" alt="image" src="https://github.com/user-attachments/assets/5b8f5f6b-8618-466a-a987-ec8fb83b1f63" />
+
+<img width="1366" height="733" alt="image" src="https://github.com/user-attachments/assets/c855c306-899a-4f0c-bffd-3f0b612981af" />
+
+
+**Example of parameter set bar chart**
+
 
