@@ -201,6 +201,30 @@ different ways to create Parameter
 <img width="1366" height="733" alt="image" src="https://github.com/user-attachments/assets/c855c306-899a-4f0c-bffd-3f0b612981af" />
 
 
-**Example of parameter set bar chart**
+
+**----Steps to Create a Set in Tableau----**
+
+In Tableau, Sets are custom fields that define a subset of your data based on specific conditions. They’re very useful for comparing groups, highlighting data dynamically, and performing "in/out" analyses.
+
+Option 1: From the Data Pane
+
+In the Data pane, right-click the field you want to base your set on (e.g., Category).
+
+Select Create → Set…
+
+In the Create Set dialog box:
+
+You’ll see a list of all members of that field.
+
+Select the ones you want in the set.
+
+(Optional) Give the set a meaningful name.
+
+Click OK.
+
+
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/277b66ef-3708-4c65-bf0e-b5e312c505ea" />
+
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/1729f33d-0bf8-46a9-be76-bce0735a0033" />
 
 
