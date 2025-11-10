@@ -142,3 +142,45 @@ Drag other related fields (e.g., State, City) into the hierarchy.
 
 <img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/e5cafec8-0500-4280-bcbe-ebb59196a08f" />
 
+----Steps to Create a Group in Tableau----
+
+Method 1: Create a Group from the Data Pane
+
+Open Tableau and connect to your dataset.
+
+In the Data Pane (left sidebar), locate the dimension you want to group (for example, Category or Region).
+
+Right-click the dimension → select Create → Group.
+
+In the Create Group dialog box:
+
+Select the members you want to group together.
+
+Click Group to combine them.
+
+Optionally rename the group (e.g., "North Regions").
+
+Click OK.
+
+A new field (e.g., Category (group)) appears in the Data Pane — you can now use it in your visualizations.
+
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/cecea428-4a01-451f-b0f9-435043b90753" />
+
+
+Method 2: Create a Group from a View (Visualization)
+
+Drag your desired dimension to Rows or Columns and build a basic view (e.g., a bar chart).
+
+In the view, Ctrl + Click (or Cmd + Click on Mac) to select multiple members you want to group.
+
+Right-click one of the selected members → choose Group.
+
+Tableau creates a new group automatically and adds it to the Data Pane.
+
+You can edit or rename the group later.
+
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/88c8d5d5-44cc-49e7-99c1-e7b04769cbd4" />
+
+
+<img width="1366" height="731" alt="image" src="https://github.com/user-attachments/assets/4bd468e5-5966-42ad-99d3-09385d9f9ead" />
+
