@@ -104,3 +104,41 @@ Superstore Sales Dashboard
 COVID-19 Data Tracker
 HR Employee Analysis
 Finance KPI Dashboard
+
+
+
+
+
+----Steps to Create a Hierarchy in Tableau----
+
+A hierarchy is useful when you have fields that represent different levels of detail, for example:
+Geography: Country → State → City
+Time: Year → Quarter → Month → Day
+Organization: Department → Team → Employee
+
+Method 1 – Using Drag and Drop
+
+In the Data pane, locate the related fields.
+Drag one field (e.g., State) on top of another (e.g., Country).
+
+Tableau will prompt:
+
+👉 “Create Hierarchy”
+
+Enter a name for your hierarchy (e.g., Geography).
+Now both fields will appear nested under that hierarchy.
+
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/143f8f22-934c-4cf8-824c-d9ce37707f43" />
+
+Method 2 – Using the Right-Click Menu
+
+Right-click on the field that should be the top level (e.g., Country).
+
+Select Hierarchy → Create Hierarchy.
+
+Give the hierarchy a name.
+
+Drag other related fields (e.g., State, City) into the hierarchy.
+
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/e5cafec8-0500-4280-bcbe-ebb59196a08f" />
+
